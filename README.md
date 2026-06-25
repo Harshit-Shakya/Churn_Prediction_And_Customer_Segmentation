@@ -160,17 +160,6 @@ Business Strategy:
 * Scikit-learn
 * Google Colab
 
----
-
-## Project Structure
-
-```text
-Churn_Prediction_And_Customer_Segmentation/
-│
-├── Customer_Segmentation_CBSOT.ipynb
-├── README.md
-└── requirements.txt
-```
 
 ---
 
