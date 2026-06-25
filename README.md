@@ -187,6 +187,45 @@ Through this project, I gained hands-on experience in:
 * Business-Oriented Data Analysis
 
 ---
+## Results
+
+The project successfully combines customer churn prediction and customer segmentation to generate actionable business insights.
+
+### Churn Prediction
+
+* Built a Random Forest Classifier to predict customer churn.
+* Evaluated the model using Accuracy, Precision, Recall, F1-Score, ROC Curve, and ROC-AUC.
+* Generated churn probabilities for each customer to identify customers at risk of leaving.
+
+### Customer Segmentation
+
+Using K-Means Clustering, customers were grouped into three meaningful segments:
+
+#### 1. High Risk New Customers
+
+* High churn probability
+* Relatively low customer tenure
+* Require immediate retention efforts
+
+#### 2. Budget Loyal Customers
+
+* Low churn probability
+* Long-term customers with stable behavior
+* Suitable for loyalty and engagement programs
+
+#### 3. Loyal Premium Customers
+
+* High-value customers with longer tenure
+* Important for revenue retention
+* Suitable for premium offers and personalized services
+
+### Business Impact
+
+* Helps identify customers likely to churn.
+* Supports targeted marketing campaigns.
+* Improves customer retention strategies.
+* Enables data-driven business decision making.
+
 
 ## Future Improvements
 
